@@ -2,6 +2,8 @@
 
 RESTful API for managing posts and users with JWT-based authentication.
 
+📖 In Russian: [перевод на русский](https://github.com/CkutlsGit/netak/blob/main/README.ru.md)
+
 ## 📋 Overview
 
 Netak is a Spring Boot application that provides a simple platform for creating and viewing posts. The project implements secure authentication using JWT tokens with role-based access control.
